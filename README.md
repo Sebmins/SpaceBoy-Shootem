@@ -8,4 +8,6 @@ W,A,S,D to move.
 
 Click to shoot at cursor.
 
-![](3b.gif)
+![](Images/Level3.gif)
+
+
