@@ -7,3 +7,5 @@ This was a month long coursework project to create a Shootem up style game using
 W,A,S,D to move.
 
 Click to shoot at cursor.
+
+![](3b.gif)
