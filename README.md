@@ -37,7 +37,7 @@ To complete the third level defeat the boss with 100hp, you will need to stop th
 
 The design of all the characters was created by the wonderfully talented Julia Yin, who can be found at twitter.com/JayJinXi, instagram.com/littlesnowjj/, twitch.tv/jayjamy, facebook.com/littlesnowjj.3
 
-Three sprites were create for the enemies, these were randomly choosen when the enemy was spawned.
+Three sprites were created for the enemies, these were randomly choosen when the enemy was spawned.
 Similarly the bullets have four different sprites which are randomly chosen from when fired.
 
 Enemy 1-3:
@@ -59,5 +59,3 @@ Ammo Packs:
 
 Speed Boost:
 ![](Images/speed_boost.png)
-![](Images/speed_boost_2.png)
-![](Images/speed_boost_3.png)
