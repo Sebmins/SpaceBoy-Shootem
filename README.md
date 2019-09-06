@@ -1,6 +1,6 @@
 # SpaceBoy Shoot'em
 
-This was a month long coursework project to create a Shoot 'Em Up style game using in MonoGame, a XNA framework that runs on Mono.Net. Monogame was used as it is a scripting language similar to C# that tests coding ability by not allowing drag and drop of code, like in Unity.
+This was a month long coursework project to create a Shoot 'Em Up style game using in MonoGame, a XNA framework that runs on Mono.Net. MonoGame was used as it is a scripting language similar to C# that tests coding ability by not allowing drag and drop functionality, like in Unity.
 
 ## Controls 
 
