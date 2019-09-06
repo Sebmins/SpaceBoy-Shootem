@@ -35,7 +35,7 @@ To complete the third level defeat the boss with 100hp, you will need to stop th
 
 ## Design
 
-The design of all the characters was created by the wonderfully talented Julia Yin, who can be found at twitter.com/JayJinXi, instagram.com/littlesnowjj/, twitch.tv/jayjamy, facebook.com/littlesnowjj.3
+The sprites used in this project were created by fellow Brunel student studying Game Design, who can be found at Julia.yin@hotmail.co.uk.
 
 Three sprites were created for the enemies, these were randomly choosen when the enemy was spawned.
 Similarly the bullets have four different sprites which are randomly chosen from when fired.
