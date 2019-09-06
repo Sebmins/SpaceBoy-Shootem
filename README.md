@@ -53,8 +53,6 @@ Player Ship:
 ![](Images/main_ship_2.png)
 
 Ammo Packs:
-![](Images/ammo_pack.png)
-![](Images/ammo_pack_2.png)
 ![](Images/ammo_pack_3.png)
 
 Speed Boost:
