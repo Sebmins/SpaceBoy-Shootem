@@ -47,7 +47,7 @@ Boss:
 ![](Images/boss_enemy_3.png)
 
 Bullets:
-![](Images/different_bullets.png)
+![](Images/different_bullets1_3.png) ![](Images/different_bullets2_3.png) ![](Images/different_bullets2_3.png) ![](Images/different_bullets3_3.png)
 
 Player Ship:
 ![](Images/main_ship_2.png)
