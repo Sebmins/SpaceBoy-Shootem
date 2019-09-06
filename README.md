@@ -1,12 +1,14 @@
 # SpaceBoy Shoot'em
 
-This was a month long coursework project to create a Shootem up style game using C# with monogame. Monogame was used as it only allows coding.
+This was a month long coursework project to create a Shoot 'Em Up style game using in MonoGame, a XNA framework that runs on Mono.Net. Monogame was used as it is a scripting language similar to C# that tests coding ability by not allowing drag and drop of code, like in Unity.
 
 ## Controls 
 
 W,A,S,D to move.
 
 Click to shoot, aim with the cursor.
+
+That's it :)!
 
 ## User Interface
 
@@ -35,7 +37,7 @@ To complete the third level defeat the boss with 100hp, you will need to stop th
 
 ## Design
 
-The sprites used in this project were created by fellow Brunel student studying Game Design, who can be found at Julia.yin@hotmail.co.uk.
+The sprites used in this project were created by fellow Brunel student studying Game Design, who can be found at Julia.Yin@hotmail.co.uk.
 
 Three sprites were created for the enemies, these were randomly choosen when the enemy was spawned.
 Similarly the bullets have four different sprites which are randomly chosen from when fired.
