@@ -39,7 +39,7 @@ To complete the third level defeat the boss with 100hp, you will need to stop th
 
 The sprites used in this project were created by fellow Brunel student studying Game Design, who can be found at Julia.Yin@hotmail.co.uk.
 
-Three sprites were created for the enemies, these were randomly choosen when the enemy was spawned.
+Three sprites were created for the enemies, these were randomly chosen when the enemy was spawned.
 Similarly the bullets have four different sprites which are randomly chosen from when fired.
 
 Enemy 1-3:
